@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/addProd"
+        android:orderInCategory="100"
+        android:title="Agregar" />
+
+    <item
+        android:id="@+id/btdelet"
+        android:orderInCategory="100"
+        android:title="Eliminar"/>
+
+    <item
+        android:id="@+id/btexit"
+        android:orderInCategory="100"
+        android:title="Salir"/>
+</menu>
